@@ -6,8 +6,6 @@
 #header img{
     width: 200px;
     margin-bottom: 30px;
-    display: flex;
-    align-items: center;
     display: block;
     margin: auto;
     padding: 20px 0;
