@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/EmanWeBdV/EPICODE_M1-W1D1">
-    <img src="./assets/logo.png" alt="Logo" width="120">
+    <img src="./assets/Simply-Recipes-Logo-2021.png" alt="Logo" width="120">
   </a>
 </p>
 
